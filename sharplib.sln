@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharplib", "sharplib\sharplib.csproj", "{0CDE2B99-C0C3-4C6D-95E2-305A99150758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharplib_x64", "sharplib_x64\sharplib_x64.csproj", "{61B8E726-3375-41C8-A099-A9A6049D1C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDE2B99-C0C3-4C6D-95E2-305A99150758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDE2B99-C0C3-4C6D-95E2-305A99150758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDE2B99-C0C3-4C6D-95E2-305A99150758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDE2B99-C0C3-4C6D-95E2-305A99150758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B8E726-3375-41C8-A099-A9A6049D1C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B8E726-3375-41C8-A099-A9A6049D1C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B8E726-3375-41C8-A099-A9A6049D1C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B8E726-3375-41C8-A099-A9A6049D1C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1483622-8FC1-4461-803D-DCE5A50A43B4}
+	EndGlobalSection
+EndGlobal

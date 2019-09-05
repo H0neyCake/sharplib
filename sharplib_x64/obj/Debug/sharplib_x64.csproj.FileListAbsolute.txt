@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\sharplib\sharplib_x64\bin\Debug\sharplib_x64.dll
+C:\Users\Dmitry\source\repos\sharplib\sharplib_x64\bin\Debug\sharplib_x64.pdb
+C:\Users\Dmitry\source\repos\sharplib\sharplib_x64\obj\Debug\sharplib_x64.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\sharplib\sharplib_x64\obj\Debug\sharplib_x64.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\sharplib\sharplib_x64\obj\Debug\sharplib_x64.csproj.Fody.CopyLocal.cache
+C:\Users\Dmitry\source\repos\sharplib\sharplib_x64\obj\Debug\sharplib_x64.dll
+C:\Users\Dmitry\source\repos\sharplib\sharplib_x64\obj\Debug\sharplib_x64.pdb
