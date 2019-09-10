@@ -1,5 +1,7 @@
 # sharplib
 
+Usage:
+```sqf
 "sharplib" callExtension "hello";
 "sharplib" callExtension "GetCPU_id";
 "sharplib" callExtension "GetCPU_name";
@@ -25,3 +27,4 @@
 "sharplib" callExtension ["toMD5", [""]]
 "sharplib" callExtension ["toSHA256", [""]]
 "sharplib" callExtension ["getHash", ["","",""]]
+```
