@@ -1,6 +1,8 @@
 # sharplib
 
-Usage:
+**Extension BE approved.**
+
+**Usage:**
 ```sqf
 "sharplib" callExtension "hello";
 "sharplib" callExtension "GetCPU_id";
